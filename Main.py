@@ -6,9 +6,6 @@ janela.title("Login")
 janela.geometry("400x300")
 janela.configure(bg="#2e2e2e")
 
-#variaveis
-
-
 
 #funções
 def registro():
